@@ -25,3 +25,6 @@ Escribe la variable `x` en el apartado `m`
 ```python
 a = 5
 ```
+
+
+ $`\sqrt{3x-1}+(1+x)^2`$
