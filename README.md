@@ -16,4 +16,5 @@ Conozco los siguientes lenguajes de programación:
 * R
 * HTML
 
-[I'm an inline-style link](https://www.google.com)
+Este es mi blog
+[Blog](https://libertadph.wordpress.com/)
