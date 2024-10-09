@@ -15,3 +15,5 @@ Conozco los siguientes lenguajes de programación:
 * Python
 * R
 * HTML
+
+Cualquier otra cosa
