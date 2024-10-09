@@ -22,6 +22,6 @@ Este es mi blog
 
 Escribe la variable `x` en el apartado `m` 
 
-```javascript
-var a = {};
+```python
+a = 5
 ```
