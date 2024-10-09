@@ -5,6 +5,7 @@ Este es un ejercicio para aprender Markdown
 ###### Este es un subtítulo de sexto nivel
 
 
-Este es otro título
+Libertad Pantoja Hernández
 =============
 
+Estudié la Licenciatura en Ciencias Genómicas y el Doctorado en Ciencias Biomédicas en la UNAM y actualmente me dedico a escritura técnica y científica.
