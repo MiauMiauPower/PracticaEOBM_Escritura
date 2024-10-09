@@ -21,3 +21,7 @@ Este es mi blog
 ![Imagen](Particularidades-anatomicas-fisiologicas.jpg.webp "Esta es una imagen")
 
 Escribe la variable `x` en el apartado `m` 
+
+```javascript
+var a = {};
+```
