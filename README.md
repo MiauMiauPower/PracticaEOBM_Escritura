@@ -19,3 +19,5 @@ Conozco los siguientes lenguajes de programación:
 Este es mi blog
 [Blog](https://libertadph.wordpress.com/)
 ![Imagen](Particularidades-anatomicas-fisiologicas.jpg.webp "Esta es una imagen")
+
+This is a `inline code block`
