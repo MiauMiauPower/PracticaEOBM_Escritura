@@ -18,4 +18,4 @@ Conozco los siguientes lenguajes de programación:
 
 Este es mi blog
 [Blog](https://libertadph.wordpress.com/)
-![Imagen]("Esta es una imagen")
+![Imagen](Particularidades-anatomicas-fisiologicas.jpg.webp "Esta es una imagen")
